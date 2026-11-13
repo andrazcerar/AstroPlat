@@ -1,6 +1,6 @@
 # AstroPlat
 
-AstroPlat je 2D arkadna igra preživetja, ki sem jo napisal v Pythonu s knjižnico Pygame. Igralec vodi astronavta, ki se izmika pastem, te pa z vsako stopnjo težavnosti prihajajo hitreje in po zahtevnejših poteh.
+AstroPlat je 2D arkadna igra, ki sem jo napisal v Pythonu s knjižnico Pygame. Igralec vodi astronavta, ki se izmika oviram, te pa z vsako stopnjo težavnosti prihajajo hitreje in po zahtevnejših poteh.
 
 ![Glavni meni](screenshots/menu.png)
 
